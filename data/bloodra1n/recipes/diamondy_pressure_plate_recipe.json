@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "category": "redstone",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bloodra1n:diamondy_planks"
+    }
+  },
+  "result": {
+    "item": "bloodra1n:diamondy_pressure_plate",
+    "count": 1
+  }
+}

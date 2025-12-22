@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bloodra1n:stripped_diamondy_log"
+    }
+  },
+  "result": {
+    "item": "bloodra1n:stripped_diamondy_wood",
+    "count": 3
+  }
+}

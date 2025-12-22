@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_door",
+  "category": "redstone",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "bloodra1n:emeraldy_planks"
+    }
+  },
+  "result": {
+    "item": "bloodra1n:emeraldy_door",
+    "count": 3
+  }
+}

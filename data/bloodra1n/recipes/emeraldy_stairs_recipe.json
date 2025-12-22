@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_stairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "bloodra1n:emeraldy_planks"
+    }
+  },
+  "result": {
+    "item": "bloodra1n:emeraldy_stairs",
+    "count": 4
+  }
+}

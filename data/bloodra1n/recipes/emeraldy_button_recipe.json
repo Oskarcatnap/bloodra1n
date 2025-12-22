@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "bloodra1n:emeraldy_planks"
+    }
+  ],
+  "result": {
+    "item": "bloodra1n:emeraldy_button",
+    "count": 1
+  }
+}
