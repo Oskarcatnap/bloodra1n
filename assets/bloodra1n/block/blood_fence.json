@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "bloodra1n:block/blood_planks",
+    "particle": "bloodra1n:block/blood_planks"
+  },
+  "render_type": "solid"
+}

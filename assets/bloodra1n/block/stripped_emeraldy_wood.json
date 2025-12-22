@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bloodra1n:block/stripped_emeraldy_log",
+    "particle": "bloodra1n:block/stripped_emeraldy_log"
+  },
+  "render_type": "solid"
+}

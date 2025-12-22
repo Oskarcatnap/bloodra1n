@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "bloodra1n:block/emeraldy_planks",
+    "particle": "bloodra1n:block/emeraldy_planks"
+  },
+  "render_type": "solid"
+}

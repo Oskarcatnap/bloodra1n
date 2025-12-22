@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "bloodra1n:block/emeraldy_planks",
+    "bottom": "bloodra1n:block/emeraldy_planks",
+    "top": "bloodra1n:block/emeraldy_planks",
+    "side": "bloodra1n:block/emeraldy_planks"
+  },
+  "render_type": "solid"
+}
