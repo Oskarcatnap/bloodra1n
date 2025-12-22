@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="bloodra1n"
+version="0.0.2"
+displayName="Bloodra1n"
+displayURL="https://youtube.com/@oskarcatnap"
+credits="Created using mod maker MCreator - I just love Mcreator"
+authors="Oskarcatnap"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.bloodra1n]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
