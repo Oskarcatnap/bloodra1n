@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#bloodra1n:emeraldy_logs",
+      "required": false
+    },
+    {
+      "id": "#bloodra1n:diamondy_logs",
+      "required": false
+    },
+    {
+      "id": "#bloodra1n:b_lood_tree_logs",
+      "required": false
+    },
+    {
+      "id": "#bloodra1n:blood_logs",
+      "required": false
+    }
+  ]
+}
