@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bloodra1n:block/emeraldy_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bloodra1n:block/emeraldy_wood"
+    },
+    "axis=z": {
+      "model": "bloodra1n:block/emeraldy_wood",
+      "x": 90
+    }
+  }
+}

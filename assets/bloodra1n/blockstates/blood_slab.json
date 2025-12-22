@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bloodra1n:block/blood_slab"
+    },
+    "type=top": {
+      "model": "bloodra1n:block/blood_slab_top"
+    },
+    "type=double": {
+      "model": "bloodra1n:block/blood_slab_full"
+    }
+  }
+}

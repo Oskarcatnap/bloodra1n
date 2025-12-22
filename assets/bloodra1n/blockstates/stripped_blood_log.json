@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bloodra1n:block/stripped_blood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bloodra1n:block/stripped_blood_log"
+    },
+    "axis=z": {
+      "model": "bloodra1n:block/stripped_blood_log",
+      "x": 90
+    }
+  }
+}
