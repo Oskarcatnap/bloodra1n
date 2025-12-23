@@ -6,8 +6,8 @@ license="Not specified"
 modId="bloodra1n"
 version="0.0.2"
 displayName="Bloodra1n"
-displayURL="https://youtube.com/@oskarcatnap"
-credits="Created using mod maker MCreator - I just love Mcreator"
+displayURL="https://modrinth.com/user/ggoskarcatnap"
+credits="This mod is in alpha"
 authors="Oskarcatnap"
 
 # Start of user code block mod configuration
@@ -24,4 +24,5 @@ authors="Oskarcatnap"
 
 
 # Start of user code block dependencies configuration
+
 # End of user code block dependencies configuration
