@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right",
+  "textures": {
+    "particle": "bloodra1n:block/emeraldy_door_bottom",
+    "bottom": "bloodra1n:block/emeraldy_door_bottom",
+    "top": "bloodra1n:block/emeraldy_door_top"
+  },
+  "render_type": "cutout"
+}

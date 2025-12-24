@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bloodra1n:block/diamondy_leaves",
+    "particle": "bloodra1n:block/diamondy_leaves"
+  }
+}
