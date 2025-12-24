@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "bloodra1n:blood_planks"
+    },
+    "title": {
+      "translate": "advancements.wtbb.title"
+    },
+    "description": {
+      "translate": "advancements.wtbb.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wtbb_0": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "bloodra1n:bloodbiom"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "minecraft:adventure/adventuring_time"
+}
