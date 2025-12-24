@@ -71,5 +71,14 @@
   "item.bloodra1n.diamondy_hoe": "Diamondy Hoe",
   "biome.bloodra1n.bloodbiom": "Blood biom",
   "biome.bloodra1n.emeraldbiom": "Emerald biom",
-  "biome.bloodra1n.diamondbiom": "Diamond biom"
+  "biome.bloodra1n.diamondbiom": "Diamond biom",
+  "item_group.bloodra1n.emeraldy": "Bloodra1n:Emeraldy",
+  "item_group.bloodra1n.blood": "Bloodra1n:Blood",
+  "item_group.bloodra1n.diamondy": "Bloodra1n:Diamondy",
+  "advancements.wtbb.descr": "You are in blood biom",
+  "advancements.wtbb.title": "Welcome to blood biom",
+  "advancements.wteb.descr": "You are in emerald biom",
+  "advancements.wteb.title": "Welcome to emerald biom",
+  "advancements.wtdb.descr": "You are in diamond biom",
+  "advancements.wtdb.title": "Welcome to diamond biom"
 }
