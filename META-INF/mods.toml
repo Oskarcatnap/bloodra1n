@@ -1,14 +1,16 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-license="Not specified"
+license="free to copy"
 
 [[mods]]
 modId="bloodra1n"
-version="0.0.2"
+version="0.0.8"
 displayName="Bloodra1n"
-displayURL="https://modrinth.com/user/ggoskarcatnap"
-credits="This mod is in alpha"
+displayURL="https://modrinth.com/mod/bloodra1n"
+logoFile="logo.png"
+credits="Oskarcatnap"
 authors="Oskarcatnap"
+description="Bloodra1n is just this mod name"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
@@ -24,5 +26,4 @@ authors="Oskarcatnap"
 
 
 # Start of user code block dependencies configuration
-
 # End of user code block dependencies configuration
